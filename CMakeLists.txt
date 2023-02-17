@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(bosch_imu_driver)
+project(custom_imu_driver)
 
 find_package(catkin REQUIRED COMPONENTS)
 
